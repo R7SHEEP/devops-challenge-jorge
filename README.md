@@ -3,7 +3,11 @@
 
 API REST segura construida con FastAPI, containerizada con Docker, orquestada con Kubernetes y con pipeline CI/CD en GitHub Actions.
 
----
+## Producción
+
+La API está desplegada y accesible en:
+
+https://devops-challenge-jorge.onrender.com
 
 ## Arquitectura
 
